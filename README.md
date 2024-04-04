@@ -1,2 +1,2 @@
-# edx-muralu-capstone
+# edx-murali-capstone
 EDX CAPSTONE
